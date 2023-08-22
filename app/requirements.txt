@@ -1,0 +1,16 @@
+boto3
+numpy
+pandas
+gunicorn
+scikit-learn
+mlflow
+psycopg2-binary
+fastapi
+uvicorn
+pydantic
+typing
+openpyxl
+python-multipart
+fsspec
+s3fs
+joblib
