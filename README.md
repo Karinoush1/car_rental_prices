@@ -17,10 +17,12 @@ Analyze the impact of implementing the minimum delay feature on owner's revenue 
 ## API 💻
 This is an app which **predicts car rental prices** based on certain parameters. These are the parameters : car model's name, mileage, engine_power, fuel, car_type, as well an aviability of following features : private parking, gps, has_air_conditioning, automatic_car, has_getaround_connect, has_speed_regulator, winter_tires.
 User can either fill in the fields or make request by posting data in json format.
-Link to API documentation : https://pricestimatorapp-07a16ed5554d.herokuapp.com/docs
+Link to API documentation : 
+https://priceestimatorsuperapp-4183505f60be.herokuapp.com/docs
 
 ## Streamlit Dashboard 📊
-Dashboard wich explores the data and helps to get useful insights in order to make a right descision. Link to the dashboard : streamlit
+Dashboard wich explores the data and helps to get useful insights in order to make a right descision. Link to the dashboard : 
+https://dashdahscars-a74765b4f79d.herokuapp.com/
 
 ## Machine Learning 🤖
 Machine learning was implemented in Colab Notebook. Several models have been tried: **Multivariate Linear Regression, Ridge, Lasso, Descision Tree and XGBoost**. 
